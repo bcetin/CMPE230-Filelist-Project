@@ -15,7 +15,7 @@ Implementation is explained in the code with comments in detail. In short our pr
 * Acquire the files in this directories and put them in a list.
 * Apply the options.
 
-Possible options are explained in the [assignment PDF.](/cmpe230spring2018hw2.pdf
+Possible options are explained in the [assignment PDF.](/cmpe230spring2018hw2.pdf)
 
 ### How to run
 
